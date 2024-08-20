@@ -1,83 +1,53 @@
-<!-- markdownlint-disable-next-line -->
-<div align="center">
+# Resume
 
-  <!-- markdownlint-disable-next-line -->
-  # Chirpy Jekyll Theme
+## Personal Information
 
-  A minimal, responsive, and feature-rich Jekyll theme for technical writing.
+- **Name:** [Gülçin Taş]
+- **Email:** [contact@gulcint.com.tr]
+- **LinkedIn:** [https://www.linkedin.com/in/gulcintas/]
+- **GitHub:** [https://github.com/gulcint]
 
-  [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy?color=brightgreen)][gem]&nbsp;
-  [![CI](https://github.com/cotes2020/jekyll-theme-chirpy/actions/workflows/ci.yml/badge.svg?branch=master&event=push)][ci]&nbsp;
-  [![Codacy Badge](https://app.codacy.com/project/badge/Grade/4e556876a3c54d5e8f2d2857c4f43894)][codacy]&nbsp;
-  [![GitHub license](https://img.shields.io/github/license/cotes2020/jekyll-theme-chirpy.svg)][license]&nbsp;
-  [![996.icu](https://img.shields.io/badge/link-996.icu-%23FF4D5B.svg)](https://996.icu)
+## Education
 
-  [**Live Demo** →][demo]
+### Bachelor's in Computer Engineering
+**[Çanakkale Onsekiz Mart Üniversitesi]**  
+_2016 - 2020_  
+Graduated with a degree in Computer Engineering.
 
-  [![Devices Mockup](https://chirpy-img.netlify.app/commons/devices-mockup.png)][demo]
+- Participated in the **2242 University Students Research Project Competition** during my graduation project and reached the regional finals.
 
-</div>
+## Experience
 
-## Features
+### Android Developer
+**Akbank (through OBSS)**  
+_2023 - Present_
+- Working as an Android developer on the Juzdan project at Akbank.
+- Contributed to the development of [specific features] and enhanced performance.
 
-- Dark Theme
-- Localized UI language
-- Pinned Posts on Home Page
-- Hierarchical Categories
-- Trending Tags
-- Table of Contents
-- Last Modified Date
-- Syntax Highlighting
-- Mathematical Expressions
-- Mermaid Diagrams & Flowcharts
-- Dark Mode Images
-- Embed Media
-- Comment Systems
-- Built-in Search
-- Atom Feeds
-- PWA
-- Web Analytics
-- SEO & Performance Optimization
+### Android Developer
+**Huawei**  
+_2021- 2023_
+- Worked on the Petal Maps application for one and a half years.
+- Contributed to the development of mapping and navigation features.
 
-## Documentation
+### Android Developer
+**Appac**  
+_2020 - 2021_
+- Worked for 9 months on an Android project.
+- Developed a news application similar to the Bundle app, where news content is presented as short videos that can be followed through infinite scrolling.
 
-To learn how to use, develop, and upgrade the project, please refer to the [Wiki][wiki].
+## Technical Skills
 
-## Contributing
+- **Programming Languages:** Kotlin, Java
+- **Mobile Development:** Android, Jetpack Compose, MVVM
+- **Version Control:** Git, GitHub
+- **Others:** RESTful APIs, Firebase, Room Database
 
-Contributions (_pull requests_, _issues_, and _discussions_) are what make the open-source community such an amazing place
-to learn, inspire, and create. Any contributions you make are greatly appreciated.
-For details, see the "[Contributing Guidelines][contribute-guide]".
+## Interests
 
-## Credits
+- Mobile application development
+- Open source projects
 
-### Contributors
+## Languages
 
-Thanks to [all the contributors][contributors] involved in the development of the project!
-
-[![all-contributors](https://contrib.rocks/image?repo=cotes2020/jekyll-theme-chirpy&columns=16)][contributors]
-<sub> — Made with [contrib.rocks](https://contrib.rocks)</sub>
-
-### Third-Party Assets
-
-This project is built on the [Jekyll][jekyllrb] ecosystem and some [great libraries][lib], and is developed using [VS Code][vscode] as well as tools provided by [JetBrains][jetbrains] under a non-commercial open-source software license.
-
-The avatar and favicon for the project's website are from [ClipartMAX][clipartmax].
-
-## License
-
-This project is published under [MIT License][license].
-
-[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
-[ci]: https://github.com/cotes2020/jekyll-theme-chirpy/actions/workflows/ci.yml?query=event%3Apush+branch%3Amaster
-[codacy]: https://app.codacy.com/gh/cotes2020/jekyll-theme-chirpy/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade
-[license]: https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/LICENSE
-[jekyllrb]: https://jekyllrb.com/
-[clipartmax]: https://www.clipartmax.com/middle/m2i8b1m2K9Z5m2K9_ant-clipart-childrens-ant-cute/
-[demo]: https://cotes2020.github.io/chirpy-demo/
-[wiki]: https://github.com/cotes2020/jekyll-theme-chirpy/wiki
-[contribute-guide]: https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/docs/CONTRIBUTING.md
-[contributors]: https://github.com/cotes2020/jekyll-theme-chirpy/graphs/contributors
-[lib]: https://github.com/cotes2020/chirpy-static-assets
-[vscode]: https://code.visualstudio.com/
-[jetbrains]: https://www.jetbrains.com/?from=jekyll-theme-chirpy
+- **English:** Advanced
